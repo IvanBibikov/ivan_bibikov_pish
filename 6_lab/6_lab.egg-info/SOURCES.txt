@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+setup.py
+6_lab.egg-info/PKG-INFO
+6_lab.egg-info/SOURCES.txt
+6_lab.egg-info/dependency_links.txt
+6_lab.egg-info/entry_points.txt
+6_lab.egg-info/top_level.txt
+src/__init__.py
+src/task1.py
+src/task2.py
+src/task3.py
+src/task4.py

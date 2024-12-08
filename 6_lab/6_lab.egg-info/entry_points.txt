@@ -1,0 +1,2 @@
+[console_scripts]
+6_lab = 6_lab.main:main
